@@ -47,6 +47,44 @@ export const Container = styled.div.withConfig({
     font-size: 0.75rem;
     font-weight: bold;
   }
+  .classes {
+  }
+  .tags {
+    display: inline-block;
+    margin: 10px;
+    padding: 0.5rem 1rem;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 4px;
+
+    a {
+      color: ${light};
+    }
+
+    &.fighter {
+      background-color: ${fighter};
+    }
+    &.mage {
+      background-color: ${mage};
+    }
+    &.tank {
+      background-color: ${tank};
+    }
+    &.assassin {
+      background-color: ${assassin};
+    }
+    &.support {
+      background-color: ${support};
+    }
+    &.marksman {
+      background-color: ${marksman};
+    }
+
+    &:hover {
+      opacity: 0.5;
+    }
+  }
 
   h2 {
     font-size: 1.5rem;
