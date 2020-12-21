@@ -4,7 +4,7 @@
 
 ## Live Sandbox
 
-https://codesandbox.io/s/elasticsearch-lol-app-ri683
+https://ri683.csb.app/
 
 ## Features
 
