@@ -37,31 +37,11 @@ const DataSearchBar = () => {
           input: 'search-input',
         }}
       />
-      <div className="classes">
-        <h2>Filter by Classes:</h2>
-        <div className="tags marksman">
-          <a href={`?champion="marksman"`}>Marksman</a>
-        </div>
-        <div className="tags mage">
-          <a href={`?champion="tank"`}>Mage</a>
-        </div>
-        <div className="tags tank">
-          <a href={`?champion="tank"`}>Tank</a>
-        </div>
-        <div className="tags support">
-          <a href={`?champion="support"`}>Support</a>
-        </div>
-        <div className="tags fighter">
-          <a href={`?champion="fighter"`}>Fighter</a>
-        </div>
-        <div className="tags assassin">
-          <a href={`?champion="assassin"`}>Assassin</a>
-        </div>
-      </div>
+      
       <footer>
         Written by{' '}
         <a
-          href="https://github.com/oldivpaust"
+          href="https://github.com/ollipaust"
           title="GitHub Profile"
           target="_blank"
         >
