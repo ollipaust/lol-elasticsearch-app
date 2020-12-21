@@ -4,14 +4,15 @@
 
 ## Live Sandbox
 
-
+https://codesandbox.io/s/elasticsearch-lol-app-ri683
 
 ## Features
 
 * UI-Kit by appbase.io
 * Elasticsearch
-* Craco for import aliases
 * Styled-Components
+
+* Desktop-only! Not responsive!
 
 ## Installation
 
