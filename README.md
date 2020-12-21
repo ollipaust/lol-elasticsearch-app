@@ -4,14 +4,15 @@
 
 ## Live Sandbox
 
-
+https://ri683.csb.app/
 
 ## Features
 
 * UI-Kit by appbase.io
 * Elasticsearch
-* Craco for import aliases
 * Styled-Components
+
+* Desktop-only! Not responsive!
 
 ## Installation
 
