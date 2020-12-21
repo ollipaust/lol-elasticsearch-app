@@ -1,10 +1,10 @@
-# Simple Elasticsearch App
+# Simple Elasticsearch App Practice
 
 ![Simple Elasticsearch App](https://res.cloudinary.com/opco-studio/image/upload/v1608558835/chrome-capture_2_ooqe43.gif)
 
 ## Live Sandbox
 
-https://ri683.csb.app/
+https://codesandbox.io/s/lolapp-elasticsearch-practice-3350p
 
 ## Features
 
